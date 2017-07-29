@@ -1,0 +1,1 @@
+one time pad (vigenere c'est le meilleur quand la taille de ta clef est plus grande que la taille de ton texte))
